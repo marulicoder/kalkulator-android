@@ -1,2 +1,2 @@
 # kalkulator-android
-Tutorial membuat kalkulator di android
+Tutorial membuat aplikasi kalkulator basis android
